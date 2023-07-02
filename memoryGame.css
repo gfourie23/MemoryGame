@@ -1,0 +1,11 @@
+#game div {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+body {
+  background-color: lightgray;
+}
